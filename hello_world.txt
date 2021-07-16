@@ -1,1 +1,1 @@
-This is a demo of git project.
+This is a demo of hello_world.txt file.
