@@ -1,6 +1,6 @@
 This is a demo of hello_world.txt file.
---------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 Now it has been changed to some extent. It is just to practice the git command.
-
+------------------------------------------------------------------------------------------
 This changes is made from github directly so that it can be pull back to local directory.
 
